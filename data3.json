@@ -1,0 +1,20 @@
+[
+    {
+      "id" : 6,
+      "title" : "아이폰 12",
+      "content" : "화이트",
+      "price" : 1200000
+    },
+    {
+      "id" : 7,
+      "title" : "애플워치 7",
+      "content" : "apple watch",
+      "price" : 500000
+    },
+    {
+      "id" : 8,
+      "title" : "에어팟 Pro",
+      "content" : "airpod Pro",
+      "price" : 3360000
+    }
+  ]

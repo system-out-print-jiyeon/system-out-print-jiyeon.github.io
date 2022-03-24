@@ -1,0 +1,20 @@
+[
+    {
+      "id" : 3,
+      "title" : "Apple M1 칩 블루",
+      "content" : "8코어 CPU 8코어 GPU",
+      "price" : 120000
+    },
+    {
+      "id" : 4,
+      "title" : "MacBook Pro 13",
+      "content" : "8코어CPU",
+      "price" : 2690000
+    },
+    {
+      "id" : 5,
+      "title" : "MacBook Pro 16",
+      "content" : "10코어CPU",
+      "price" : 3360000
+    }
+  ]
